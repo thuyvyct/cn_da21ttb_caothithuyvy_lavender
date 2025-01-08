@@ -1,19 +1,11 @@
 # cn_da21ttb_caothithuyvy_lavender
 
-## Họ và tên: Cao Thị Thúy Vy
-
-## MSSV: 110121133
-
-## Lớp: DA21TTB
-
-## Email: caothuyvy13@gmail.com
+- Họ và tên: Cao Thị Thúy Vy
+- MSSV: 110121133
+- Lớp: DA21TTB
+- Email: caothuyvy13@gmail.com
 
 # Website Thời Trang Lavender 🌸
-
-## Giới thiệu
-
-Website Thời Trang Lavender là một dự án được xây dựng nhằm cung cấp nền tảng bán hàng trực tuyến cho các sản phẩm thời trang mang thương hiệu Lavender.
-Dự án tập trung vào việc mang lại trải nghiệm mua sắm thân thiện, hiện đại, và dễ sử dụng cho người dùng.
 
 ## Chức năng chính
 
